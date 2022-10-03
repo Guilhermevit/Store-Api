@@ -1,0 +1,673 @@
+2022-09-26T19:10:43.649Z [store-api] error POST  - Nome CPF, telefone, email e endereço são obrigatorios
+2022-09-26T19:21:44.896Z [store-api] error POST  - Nome CPF, telefone, email e endereço são obrigatorios
+2022-09-26T19:22:17.681Z [store-api] error POST  - Nome, CPF, telefone, email e endereço são obrigatorios
+2022-09-26T19:52:34.069Z [store-api] error POST  - Nome, CPF, telefone, email e endereço são obrigatorios
+2022-09-26T19:55:42.841Z [store-api] error POST  - Nome, CPF, telefone, email e endereço são obrigatorios
+2022-09-26T19:56:05.593Z [store-api] error POST  - Nome, CPF, telefone, email e endereço são obrigatorios
+2022-09-26T19:57:26.443Z [store-api] error POST  - Nome, CPF, telefone, email e endereço são obrigatorios
+2022-09-26T19:58:46.735Z [store-api] error POST  - Nome, CPF, telefone, email e endereço são obrigatorios
+2022-09-26T19:59:20.945Z [store-api] error POST  - Nome, CPF, telefone, email e endereço são obrigatorios
+2022-09-26T20:11:02.172Z [store-api] error POST  - Nome, CPF, telefone, email e endereço são obrigatorios
+2022-09-26T20:11:42.482Z [store-api] error POST  - Unexpected token } in JSON at position 160
+2022-09-26T20:25:17.479Z [store-api] error POST  - Nome, CPF, telefone, email e endereço são obrigatorios
+2022-09-26T20:32:03.535Z [store-api] info POST /client - {"name":"Guilherme M Vit","cpf":"06372658909","phone":"67999581929","email":"guilhermevit@hotmail.com","address":"Rua 14 de julho 4618 casa 01"}
+2022-09-26T20:35:25.024Z [store-api] info POST /client - {"name":"Guilherme M Vit","cpf":"06372658909","phone":"67999581929","email":"guilhermevit@hotmail.com","address":"Rua 14 de julho 4618 casa 01"}
+2022-09-26T20:43:14.241Z [store-api] info POST /client - {"name":"Guilherme M Vit","cpf":"06372658909","phone":"67999581929","email":"guilhermevit@hotmail.com","address":"Rua 14 de julho 4618 casa 01"}
+2022-09-26T20:45:07.445Z [store-api] info POST /client - {"name":"Guilherme M Vit","cpf":"06372658909","phone":"67999581929","email":"guilhermevit@hotmail.com","address":"Rua 14 de julho 4618 casa 01"}
+2022-09-26T20:49:41.834Z [store-api] info POST /client - {"name":"Guilherme M Vit","cpf":"06372658909","phone":"67999581929","email":"guilhermevit@hotmail.com","address":"Rua 14 de julho 4618 casa 01"}
+2022-09-27T12:34:26.747Z [store-api] info POST /client - {"name":"Guilherme M Vit","cpf":"06372658909","phone":"67999581929","email":"guilhermevit@hotmail.com","address":"Rua 14 de julho 4618 casa 01"}
+2022-09-27T12:52:43.951Z [store-api] info GET/clients
+2022-09-27T13:07:00.369Z [store-api] error GET  - Cannot read properties of undefined (reading 'id')
+2022-09-27T13:07:34.477Z [store-api] info GET/clients
+2022-09-27T13:07:45.852Z [store-api] error GET  - Cannot read properties of undefined (reading 'id')
+2022-09-27T13:08:30.878Z [store-api] error GET  - Cannot read properties of undefined (reading 'id')
+2022-09-27T13:09:03.483Z [store-api] error GET  - Cannot read properties of undefined (reading 'id')
+2022-09-27T13:09:49.224Z [store-api] info GET/client
+2022-09-27T13:18:31.123Z [store-api] error DELETE  - syntax error at or near "*"
+2022-09-27T13:20:23.625Z [store-api] error DELETE  - syntax error at or near "*"
+2022-09-27T13:21:53.484Z [store-api] error DELETE  - syntax error at or near "*"
+2022-09-27T13:23:12.246Z [store-api] error DELETE  - syntax error at or near "*"
+2022-09-27T13:23:26.591Z [store-api] info DELETE/client
+2022-09-27T13:23:33.410Z [store-api] info GET/clients
+2022-09-27T14:06:26.384Z [store-api] info GET/clients
+2022-09-27T14:17:46.328Z [store-api] error PUT  - ID do cliente, Nome, CPF, telefone, email e endereço são obrigatorios
+2022-09-27T14:18:12.149Z [store-api] error PUT  - ID do cliente, Nome, CPF, telefone, email e endereço são obrigatorios
+2022-09-27T14:18:27.565Z [store-api] error PUT  - ID do cliente, Nome, CPF, telefone, email e endereço são obrigatorios
+2022-09-27T14:18:39.781Z [store-api] info POST /client - {"name":"Guilherme M Vit","cpf":"06372658909","phone":"67999581929","email":"guilhermevit@hotmail.com","address":"Rua 14 de julho 4618 casa 01"}
+2022-09-27T14:19:12.891Z [store-api] error PUT  - Unexpected token } in JSON at position 172
+2022-09-27T14:19:22.931Z [store-api] error PUT  - ID do cliente, Nome, CPF, telefone, email e endereço são obrigatorios
+2022-09-27T14:19:31.709Z [store-api] error PUT  - ID do cliente, Nome, CPF, telefone, email e endereço são obrigatorios
+2022-09-27T14:19:39.859Z [store-api] error PUT  - ID do cliente, Nome, CPF, telefone, email e endereço são obrigatorios
+2022-09-27T14:20:36.516Z [store-api] info POST /client - {"name":"Guilherme M Vit","cpf":"06372658909","phone":"67999581929","email":"guilhermevit@hotmail.com","address":"Rua 14 de julho 4618 casa 01"}
+2022-09-27T14:20:58.719Z [store-api] error PUT  - ID do cliente, Nome, CPF, telefone, email e endereço são obrigatorios
+2022-09-27T14:21:25.187Z [store-api] error PUT  - ID do cliente, Nome, CPF, telefone, email e endereço são obrigatorios
+2022-09-27T14:21:45.515Z [store-api] error PUT  - ID do cliente, Nome, CPF, telefone, email e endereço são obrigatorios
+2022-09-27T14:22:20.886Z [store-api] error PUT  - ID do cliente, Nome, CPF, telefone, email e endereço são obrigatorios
+2022-09-27T14:23:06.774Z [store-api] error PUT  - ID do cliente, Nome, CPF, telefone, email e endereço são obrigatorios
+2022-09-27T14:23:07.785Z [store-api] error PUT  - ID do cliente, Nome, CPF, telefone, email e endereço são obrigatorios
+2022-09-27T14:23:08.063Z [store-api] error PUT  - ID do cliente, Nome, CPF, telefone, email e endereço são obrigatorios
+2022-09-27T14:23:56.317Z [store-api] error PUT  - ID do cliente, Nome, CPF, telefone, email e endereço são obrigatorios
+2022-09-27T14:23:57.324Z [store-api] error PUT  - ID do cliente, Nome, CPF, telefone, email e endereço são obrigatorios
+2022-09-27T14:23:57.515Z [store-api] error PUT  - ID do cliente, Nome, CPF, telefone, email e endereço são obrigatorios
+2022-09-27T14:23:57.740Z [store-api] error PUT  - ID do cliente, Nome, CPF, telefone, email e endereço são obrigatorios
+2022-09-27T14:23:57.919Z [store-api] error PUT  - ID do cliente, Nome, CPF, telefone, email e endereço são obrigatorios
+2022-09-27T14:24:33.296Z [store-api] error PUT  - ID do cliente, Nome, CPF, telefone, email e endereço são obrigatorios
+2022-09-27T14:24:34.337Z [store-api] error PUT  - ID do cliente, Nome, CPF, telefone, email e endereço são obrigatorios
+2022-09-27T14:24:34.577Z [store-api] error PUT  - ID do cliente, Nome, CPF, telefone, email e endereço são obrigatorios
+2022-09-27T14:24:34.879Z [store-api] error PUT  - ID do cliente, Nome, CPF, telefone, email e endereço são obrigatorios
+2022-09-27T14:24:45.719Z [store-api] info POST /client - {"name":"Guilherme M Vit","cpf":"06372658909","phone":"67999581929","email":"guilhermevit@hotmail.com","address":"Rua 14 de julho 4618 casa 01"}
+2022-09-27T14:24:49.481Z [store-api] info GET/clients
+2022-09-27T14:24:56.635Z [store-api] error PUT  - ID do cliente, Nome, CPF, telefone, email e endereço são obrigatorios
+2022-09-27T14:25:04.745Z [store-api] error PUT  - column "address" of relation "clients" does not exist
+2022-09-27T14:25:17.239Z [store-api] error PUT  - column "address" of relation "clients" does not exist
+2022-09-27T14:25:26.917Z [store-api] error PUT  - ID do cliente, Nome, CPF, telefone, email e endereço são obrigatorios
+2022-09-27T14:25:47.313Z [store-api] error POST  - null value in column "adress" of relation "clients" violates not-null constraint
+2022-09-27T14:25:56.841Z [store-api] info POST /client - {"name":"Guilherme M Vit","cpf":"06372658909","phone":"67999581929","email":"guilhermevit@hotmail.com","address":"Rua 14 de julho 4618 casa 01"}
+2022-09-27T14:26:26.080Z [store-api] info POST /client - {"name":"Guilherme M Vit","cpf":"06372658909","phone":"67999581929","email":"guilhermevit@hotmail.com","address":"Rua 14 de julho 4618 casa 01"}
+2022-09-27T14:26:28.695Z [store-api] error PUT  - ID do cliente, Nome, CPF, telefone, email e endereço são obrigatorios
+2022-09-27T14:26:29.458Z [store-api] error PUT  - ID do cliente, Nome, CPF, telefone, email e endereço são obrigatorios
+2022-09-27T14:26:30.088Z [store-api] error PUT  - ID do cliente, Nome, CPF, telefone, email e endereço são obrigatorios
+2022-09-27T14:26:39.073Z [store-api] info GET/clients
+2022-09-27T14:27:02.169Z [store-api] error PUT  - ID do cliente, Nome, CPF, telefone, email e endereço são obrigatorios
+2022-09-27T14:28:02.321Z [store-api] error PUT  - ID do cliente, Nome, CPF, telefone, email e endereço são obrigatorios
+2022-09-27T14:28:03.562Z [store-api] error PUT  - ID do cliente, Nome, CPF, telefone, email e endereço são obrigatorios
+2022-09-27T14:28:07.643Z [store-api] error PUT  - ID do cliente, Nome, CPF, telefone, email e endereço são obrigatorios
+2022-09-27T14:28:09.230Z [store-api] error PUT  - ID do cliente, Nome, CPF, telefone, email e endereço são obrigatorios
+2022-09-27T14:33:11.776Z [store-api] error PUT  - ID do cliente, Nome, CPF, telefone, email e endereço são obrigatorios
+2022-09-27T14:33:12.776Z [store-api] error PUT  - ID do cliente, Nome, CPF, telefone, email e endereço são obrigatorios
+2022-09-27T14:33:57.397Z [store-api] error PUT  - ID do cliente, Nome, CPF, telefone, email e endereço são obrigatorios
+2022-09-27T14:33:59.816Z [store-api] error PUT  - Nome, CPF, telefone, email e endereço são obrigatorios
+2022-09-27T14:37:23.351Z [store-api] error PUT  - Nome, CPF, telefone, email e endereço são obrigatorios
+2022-09-27T14:37:38.133Z [store-api] info GET/client
+2022-09-27T14:37:49.187Z [store-api] error PUT  - Nome, CPF, telefone, email e endereço são obrigatorios
+2022-09-27T14:38:00.871Z [store-api] error PUT  - Nome, CPF, telefone, email e endereço são obrigatorios
+2022-09-27T14:38:12.636Z [store-api] error PUT  - Nome, CPF, telefone, email e endereço são obrigatorios
+2022-09-27T14:38:13.476Z [store-api] error PUT  - Nome, CPF, telefone, email e endereço são obrigatorios
+2022-09-27T14:38:14.121Z [store-api] error PUT  - Nome, CPF, telefone, email e endereço são obrigatorios
+2022-09-27T14:38:14.866Z [store-api] error PUT  - Nome, CPF, telefone, email e endereço são obrigatorios
+2022-09-27T14:39:46.543Z [store-api] error PUT  - Nome, CPF, telefone, email e endereço são obrigatorios
+2022-09-27T14:39:48.087Z [store-api] error PUT  - Nome, CPF, telefone, email e endereço são obrigatorios
+2022-09-27T14:41:37.375Z [store-api] error PUT  - Nome, CPF, telefone, email e endereço são obrigatorios
+2022-09-27T14:43:08.690Z [store-api] error PUT  - Nome, CPF, telefone, email e endereço são obrigatorios
+2022-09-27T14:43:57.140Z [store-api] error PUT  - Nome, CPF, telefone, email e endereço são obrigatorios
+2022-09-27T14:43:58.301Z [store-api] error PUT  - Nome, CPF, telefone, email e endereço são obrigatorios
+2022-09-27T14:44:16.907Z [store-api] error PUT  - Nome, CPF, telefone, email e endereço são obrigatorios
+2022-09-27T14:44:19.226Z [store-api] error PUT  - Nome, CPF, telefone, email e endereço são obrigatorios
+2022-09-27T14:44:20.746Z [store-api] error PUT  - Nome, CPF, telefone, email e endereço são obrigatorios
+2022-09-27T14:44:25.426Z [store-api] error PUT  - Unexpected number in JSON at position 17
+2022-09-27T14:44:26.954Z [store-api] error PUT  - Unexpected number in JSON at position 17
+2022-09-27T14:44:34.964Z [store-api] error PUT  - Nome, CPF, telefone, email e endereço são obrigatorios
+2022-09-27T14:44:51.926Z [store-api] error PUT  - Nome, CPF, telefone, email e endereço são obrigatorios
+2022-09-27T14:45:08.116Z [store-api] error PUT  - Nome, CPF, telefone, email e endereço são obrigatorios
+2022-09-27T14:45:09.499Z [store-api] error PUT  - Nome, CPF, telefone, email e endereço são obrigatorios
+2022-09-27T14:45:26.845Z [store-api] error PUT  - Nome, CPF, telefone, email e endereço são obrigatorios
+2022-09-27T14:45:28.096Z [store-api] error PUT  - Nome, CPF, telefone, email e endereço são obrigatorios
+2022-09-27T14:46:21.572Z [store-api] error PUT  - Nome, CPF, telefone, email e endereço são obrigatorios
+2022-09-27T14:47:18.945Z [store-api] error PUT  - Unexpected end of JSON input
+2022-09-27T14:47:26.961Z [store-api] error PUT  - Unexpected end of JSON input
+2022-09-27T14:48:00.083Z [store-api] info GET/clients
+2022-09-27T14:50:41.969Z [store-api] info GET/clients
+2022-09-27T14:53:04.816Z [store-api] info DELETE/client
+2022-09-27T14:53:08.420Z [store-api] info GET/clients
+2022-09-27T14:53:27.188Z [store-api] info DELETE/client
+2022-09-27T14:53:32.965Z [store-api] info GET/clients
+2022-09-27T14:59:35.050Z [store-api] error PUT  - Nome, CPF, telefone, email e endereço são obrigatorios
+2022-09-27T14:59:41.618Z [store-api] error PUT  - Nome, CPF, telefone, email e endereço são obrigatorios
+2022-09-27T14:59:53.704Z [store-api] error PUT  - Nome, CPF, telefone, email e endereço são obrigatorios
+2022-09-27T14:59:58.520Z [store-api] error PUT  - Nome, CPF, telefone, email e endereço são obrigatorios
+2022-09-27T15:00:31.118Z [store-api] error PUT  - Nome, CPF, telefone, email e endereço são obrigatorios
+2022-09-27T15:00:32.301Z [store-api] error PUT  - Nome, CPF, telefone, email e endereço são obrigatorios
+2022-09-27T15:02:02.890Z [store-api] info GET/clients
+2022-09-27T15:02:05.727Z [store-api] info GET/client
+2022-09-27T15:03:54.429Z [store-api] error PUT  - Nome, CPF, telefone, email e endereço são obrigatorios
+2022-09-27T15:03:55.283Z [store-api] error PUT  - Nome, CPF, telefone, email e endereço são obrigatorios
+2022-09-27T15:03:55.867Z [store-api] error PUT  - Nome, CPF, telefone, email e endereço são obrigatorios
+2022-09-27T15:03:56.346Z [store-api] error PUT  - Nome, CPF, telefone, email e endereço são obrigatorios
+2022-09-27T15:03:56.742Z [store-api] error PUT  - Nome, CPF, telefone, email e endereço são obrigatorios
+2022-09-27T15:04:04.392Z [store-api] error PUT  - Nome, CPF, telefone, email e endereço são obrigatorios
+2022-09-27T15:04:05.123Z [store-api] error PUT  - Nome, CPF, telefone, email e endereço são obrigatorios
+2022-09-27T15:04:05.746Z [store-api] error PUT  - Nome, CPF, telefone, email e endereço são obrigatorios
+2022-09-27T15:04:06.436Z [store-api] error PUT  - Nome, CPF, telefone, email e endereço são obrigatorios
+2022-09-27T15:04:07.004Z [store-api] error PUT  - Nome, CPF, telefone, email e endereço são obrigatorios
+2022-09-27T15:04:07.527Z [store-api] error PUT  - Nome, CPF, telefone, email e endereço são obrigatorios
+2022-09-27T15:04:08.029Z [store-api] error PUT  - Nome, CPF, telefone, email e endereço são obrigatorios
+2022-09-27T15:04:08.518Z [store-api] error PUT  - Nome, CPF, telefone, email e endereço são obrigatorios
+2022-09-27T15:04:08.990Z [store-api] error PUT  - Nome, CPF, telefone, email e endereço são obrigatorios
+2022-09-27T15:04:09.646Z [store-api] error PUT  - Nome, CPF, telefone, email e endereço são obrigatorios
+2022-09-27T15:04:10.099Z [store-api] error PUT  - Nome, CPF, telefone, email e endereço são obrigatorios
+2022-09-27T15:04:10.471Z [store-api] error PUT  - Nome, CPF, telefone, email e endereço são obrigatorios
+2022-09-27T15:04:10.702Z [store-api] error PUT  - Nome, CPF, telefone, email e endereço são obrigatorios
+2022-09-27T15:04:10.900Z [store-api] error PUT  - Nome, CPF, telefone, email e endereço são obrigatorios
+2022-09-27T15:04:11.102Z [store-api] error PUT  - Nome, CPF, telefone, email e endereço são obrigatorios
+2022-09-27T15:04:11.306Z [store-api] error PUT  - Nome, CPF, telefone, email e endereço são obrigatorios
+2022-09-27T15:04:11.505Z [store-api] error PUT  - Nome, CPF, telefone, email e endereço são obrigatorios
+2022-09-27T15:04:11.704Z [store-api] error PUT  - Nome, CPF, telefone, email e endereço são obrigatorios
+2022-09-27T15:04:23.384Z [store-api] error PUT  - Unexpected token c in JSON at position 0
+2022-09-27T15:04:30.364Z [store-api] info GET/client
+2022-09-27T15:04:44.156Z [store-api] error PUT  - Nome, CPF, telefone, email e endereço são obrigatorios
+2022-09-27T15:29:30.214Z [store-api] info POST /supplier - {"name":"Guilherme M Vit","cnpj":"06372658909","phone":"67999581929","email":"guilhermevit@hotmail.com","address":"Rua 14 de julho 4618 casa 01"}
+2022-09-27T15:29:42.549Z [store-api] error PUT  - Nome, CPF, telefone, email e endereço são obrigatorios
+2022-09-27T15:29:46.374Z [store-api] info GET/clients
+2022-09-27T15:29:57.867Z [store-api] info GET/suppliers
+2022-09-27T15:31:03.906Z [store-api] error PUT  - Nome, CPF, telefone, email e endereço são obrigatorios
+2022-09-27T15:31:05.356Z [store-api] error PUT  - Nome, CPF, telefone, email e endereço são obrigatorios
+2022-09-27T15:31:06.082Z [store-api] error PUT  - Nome, CPF, telefone, email e endereço são obrigatorios
+2022-09-27T15:31:06.629Z [store-api] error PUT  - Nome, CPF, telefone, email e endereço são obrigatorios
+2022-09-27T15:31:06.849Z [store-api] error PUT  - Nome, CPF, telefone, email e endereço são obrigatorios
+2022-09-27T15:31:10.609Z [store-api] error PUT  - Nome, CPF, telefone, email e endereço são obrigatorios
+2022-09-27T15:31:11.778Z [store-api] error PUT  - Nome, CPF, telefone, email e endereço são obrigatorios
+2022-09-27T15:31:15.898Z [store-api] error PUT  - Nome, CPF, telefone, email e endereço são obrigatorios
+2022-09-27T15:31:16.688Z [store-api] error PUT  - Nome, CPF, telefone, email e endereço são obrigatorios
+2022-09-27T15:31:19.266Z [store-api] error PUT  - Nome, CPF, telefone, email e endereço são obrigatorios
+2022-09-27T15:31:20.079Z [store-api] error PUT  - Nome, CPF, telefone, email e endereço são obrigatorios
+2022-09-27T15:31:23.002Z [store-api] info GET/suppliers
+2022-09-27T15:31:47.776Z [store-api] error GET  - column "supplier_id" does not exist
+2022-09-27T15:32:05.847Z [store-api] info POST /supplier - {"name":"Guilherme M Vit","cnpj":"06372658909","phone":"67999581929","email":"guilhermevit@hotmail.com","address":"Rua 14 de julho 4618 casa 01"}
+2022-09-27T15:32:09.570Z [store-api] info GET/suppliers
+2022-09-27T15:32:15.287Z [store-api] error GET  - column "supplier_id" does not exist
+2022-09-27T15:32:19.213Z [store-api] info GET/suppliers
+2022-09-27T15:32:26.685Z [store-api] error GET  - column "supplier_id" does not exist
+2022-09-27T15:32:38.328Z [store-api] info GET/suppliers
+2022-09-27T15:33:11.983Z [store-api] error GET  - column "supplier_id" does not exist
+2022-09-27T15:33:47.646Z [store-api] info DELETE/client
+2022-09-27T15:33:50.986Z [store-api] info GET/suppliers
+2022-09-27T15:33:52.022Z [store-api] info GET/suppliers
+2022-09-27T15:33:52.771Z [store-api] info GET/suppliers
+2022-09-27T15:34:05.801Z [store-api] info GET/suppliers
+2022-09-27T15:34:06.962Z [store-api] info GET/suppliers
+2022-09-27T15:34:27.347Z [store-api] error DELETE  - column "supplier_id" does not exist
+2022-09-27T15:34:46.442Z [store-api] error DELETE  - column "supplier_id" does not exist
+2022-09-27T15:35:27.902Z [store-api] info DELETE/supplier
+2022-09-27T15:35:32.106Z [store-api] info GET/suppliers
+2022-09-27T15:35:49.409Z [store-api] info GET/supplier
+2022-09-27T15:35:53.913Z [store-api] info POST /supplier - {"name":"Guilherme M Vit","cnpj":"06372658909","phone":"67999581929","email":"guilhermevit@hotmail.com","address":"Rua 14 de julho 4618 casa 01"}
+2022-09-27T15:35:59.078Z [store-api] info GET/supplier
+2022-09-27T19:21:38.320Z [store-api] error POST  - Nome, CPF, telefone, email e endereço são obrigatorios
+2022-09-27T19:23:34.842Z [store-api] error POST  - Nome, CPF, telefone, email e endereço são obrigatorios
+2022-09-27T19:25:14.079Z [store-api] error PUT  - Nome, CPF, telefone, email e endereço são obrigatorios
+2022-09-27T19:25:16.154Z [store-api] error PUT  - Nome, CPF, telefone, email e endereço são obrigatorios
+2022-09-27T19:25:23.424Z [store-api] info POST /supplier - {"name":"Guilherme M Vit","cnpj":"06372658909","phone":"67999581929","email":"guilhermevit@hotmail.com","address":"Rua 14 de julho 4618 casa 01"}
+2022-09-27T19:25:34.075Z [store-api] error POST  - Nome, CPF, telefone, email e endereço são obrigatorios
+2022-09-27T19:25:38.885Z [store-api] error POST  - Nome, CPF, telefone, email e endereço são obrigatorios
+2022-09-27T19:26:33.090Z [store-api] error POST  - relation "products" does not exist
+2022-09-27T19:41:57.049Z [store-api] info POST /product - {"name":"Ração","description":"Para cachorros porte grande","value":125,"stock":72,"supplier_id":"4"}
+2022-09-27T19:43:15.237Z [store-api] info GET/product
+2022-09-27T19:43:38.759Z [store-api] error PUT  - Nome, CPF, telefone, email e endereço são obrigatorios
+2022-09-27T19:43:51.094Z [store-api] info GET/product
+2022-09-27T19:43:55.957Z [store-api] info GET/supplier
+2022-09-27T19:44:22.146Z [store-api] info GET/product
+2022-09-27T19:44:27.891Z [store-api] info GET/product
+2022-09-27T19:45:04.882Z [store-api] info POST /product - {"name":"Ração","description":"Para gatos porte grande","value":75,"stock":2,"supplier_id":"3"}
+2022-09-27T19:45:11.532Z [store-api] info GET/product
+2022-09-27T19:48:28.157Z [store-api] info GET/product
+2022-09-27T19:49:06.773Z [store-api] info GET/product
+2022-09-27T19:49:11.536Z [store-api] info GET/product
+2022-09-27T19:49:24.115Z [store-api] info DELETE/product
+2022-09-27T19:49:27.957Z [store-api] info GET/product
+2022-09-27T19:49:34.894Z [store-api] info POST /product - {"name":"Ração","description":"Para gatos porte grande","value":75,"stock":2,"supplier_id":"3"}
+2022-09-27T20:00:05.631Z [store-api] error POST  - Fornecedor inexistente!
+2022-09-27T20:34:48.630Z [store-api] error POST  - client_id  , product_id  , value   e date  são obrigatorios
+2022-09-27T20:35:00.056Z [store-api] error POST  - Fornecedor inexistente!
+2022-09-27T20:35:11.791Z [store-api] info POST /supplier - {"name":"Guilherme M Vit","cnpj":"06372658909","phone":"67999581929","email":"guilhermevit@hotmail.com","address":"Rua 14 de julho 4618 casa 01"}
+2022-09-27T20:35:15.249Z [store-api] info GET/suppliers
+2022-09-27T20:35:21.428Z [store-api] info GET/clients
+2022-09-27T20:35:29.225Z [store-api] info GET/product
+2022-09-27T20:35:31.375Z [store-api] info GET/product
+2022-09-27T20:35:45.367Z [store-api] error POST  - Fornecedor inexistente!
+2022-09-27T20:36:47.802Z [store-api] error POST  - Fornecedor inexistente!
+2022-09-27T20:37:21.841Z [store-api] error POST  - Fornecedor inexistente!
+2022-09-27T20:37:38.146Z [store-api] info GET/clients
+2022-09-27T20:37:45.646Z [store-api] info GET/product
+2022-09-27T20:37:48.109Z [store-api] info GET/product
+2022-09-27T20:37:51.127Z [store-api] info POST /product - {"name":"Ração","description":"Para gatos porte grande","value":75,"stock":2,"supplier_id":"5"}
+2022-09-27T20:37:51.468Z [store-api] info POST /product - {"name":"Ração","description":"Para gatos porte grande","value":75,"stock":2,"supplier_id":"5"}
+2022-09-27T20:37:51.752Z [store-api] info POST /product - {"name":"Ração","description":"Para gatos porte grande","value":75,"stock":2,"supplier_id":"5"}
+2022-09-27T20:37:52.242Z [store-api] info POST /product - {"name":"Ração","description":"Para gatos porte grande","value":75,"stock":2,"supplier_id":"5"}
+2022-09-27T20:37:53.002Z [store-api] info POST /product - {"name":"Ração","description":"Para gatos porte grande","value":75,"stock":2,"supplier_id":"5"}
+2022-09-27T20:37:53.684Z [store-api] info POST /product - {"name":"Ração","description":"Para gatos porte grande","value":75,"stock":2,"supplier_id":"5"}
+2022-09-27T20:37:54.398Z [store-api] info POST /product - {"name":"Ração","description":"Para gatos porte grande","value":75,"stock":2,"supplier_id":"5"}
+2022-09-27T20:37:57.632Z [store-api] info POST /client - {"name":"Guilherme M Vit","cpf":"06372658909","phone":"67999581929","email":"guilhermevit@hotmail.com","address":"Rua 14 de julho 4618 casa 01"}
+2022-09-27T20:38:03.493Z [store-api] info GET/clients
+2022-09-27T20:38:12.803Z [store-api] info POST /product - {"name":"Ração","description":"Para gatos porte grande","value":75,"stock":2,"supplier_id":"5"}
+2022-09-27T20:38:13.537Z [store-api] info POST /product - {"name":"Ração","description":"Para gatos porte grande","value":75,"stock":2,"supplier_id":"5"}
+2022-09-27T20:38:14.205Z [store-api] info POST /product - {"name":"Ração","description":"Para gatos porte grande","value":75,"stock":2,"supplier_id":"5"}
+2022-09-27T20:38:20.336Z [store-api] info POST /supplier - {"name":"Guilherme M Vit","cnpj":"06372658909","phone":"67999581929","email":"guilhermevit@hotmail.com","address":"Rua 14 de julho 4618 casa 01"}
+2022-09-27T20:38:21.402Z [store-api] info POST /supplier - {"name":"Guilherme M Vit","cnpj":"06372658909","phone":"67999581929","email":"guilhermevit@hotmail.com","address":"Rua 14 de julho 4618 casa 01"}
+2022-09-27T20:38:22.113Z [store-api] info POST /supplier - {"name":"Guilherme M Vit","cnpj":"06372658909","phone":"67999581929","email":"guilhermevit@hotmail.com","address":"Rua 14 de julho 4618 casa 01"}
+2022-09-27T20:38:22.754Z [store-api] info POST /supplier - {"name":"Guilherme M Vit","cnpj":"06372658909","phone":"67999581929","email":"guilhermevit@hotmail.com","address":"Rua 14 de julho 4618 casa 01"}
+2022-09-27T20:38:23.409Z [store-api] info POST /supplier - {"name":"Guilherme M Vit","cnpj":"06372658909","phone":"67999581929","email":"guilhermevit@hotmail.com","address":"Rua 14 de julho 4618 casa 01"}
+2022-09-27T20:38:24.048Z [store-api] info POST /supplier - {"name":"Guilherme M Vit","cnpj":"06372658909","phone":"67999581929","email":"guilhermevit@hotmail.com","address":"Rua 14 de julho 4618 casa 01"}
+2022-09-27T20:38:24.694Z [store-api] info POST /supplier - {"name":"Guilherme M Vit","cnpj":"06372658909","phone":"67999581929","email":"guilhermevit@hotmail.com","address":"Rua 14 de julho 4618 casa 01"}
+2022-09-27T20:38:25.311Z [store-api] info POST /supplier - {"name":"Guilherme M Vit","cnpj":"06372658909","phone":"67999581929","email":"guilhermevit@hotmail.com","address":"Rua 14 de julho 4618 casa 01"}
+2022-09-27T20:38:26.049Z [store-api] info POST /supplier - {"name":"Guilherme M Vit","cnpj":"06372658909","phone":"67999581929","email":"guilhermevit@hotmail.com","address":"Rua 14 de julho 4618 casa 01"}
+2022-09-27T20:38:44.754Z [store-api] error POST  - Fornecedor inexistente!
+2022-09-27T20:40:19.296Z [store-api] info POST /sale - {"client_id":13,"product_id":13,"value":550,"date":"10/11/1986"}
+2022-09-27T20:40:55.403Z [store-api] info POST /sale - {"client_id":3,"product_id":3,"value":750,"date":"10/11/1986"}
+2022-09-27T20:41:02.972Z [store-api] info GET/product
+2022-09-27T20:41:12.613Z [store-api] info GET/sale
+2022-09-27T20:41:20.239Z [store-api] error PUT  - client_id  , product_id  , value   e date  são obrigatorios
+2022-09-27T20:41:29.207Z [store-api] info GET/sale
+2022-09-27T20:41:37.079Z [store-api] info POST /sale - {"client_id":3,"product_id":3,"value":750,"date":"10/11/1986"}
+2022-09-27T20:41:44.490Z [store-api] info DELETE/sale
+2022-09-27T20:41:48.641Z [store-api] info GET/sale
+2022-09-27T20:54:05.249Z [store-api] info POST /sale - {"client_id":3,"product_id":1,"value":750,"date":"10/11/1986"}
+2022-09-27T20:54:13.580Z [store-api] error POST  - Cliente não encontrado!
+2022-09-27T20:54:24.378Z [store-api] error POST  - Produto inexistente!
+2022-09-27T20:54:33.093Z [store-api] info POST /sale - {"client_id":3,"product_id":10,"value":750,"date":"10/11/1986"}
+2022-09-27T21:07:50.915Z [store-api] info GET/product
+2022-09-28T09:18:13.101Z [store-api] error PUT  - Nome, CPF, telefone, email e endereço são obrigatorios
+2022-09-28T09:19:49.781Z [store-api] info PUT /client - {"client_id":3,"name":"Guilherme M Vit","cpf":"06372658909","phone":"67999581929","email":"guilhermevit@hotmail.com","address":"Rua 14 de julho 4618 casa 01"}
+2022-09-28T09:21:33.876Z [store-api] error PUT  - Nome, CPF, telefone, email e endereço são obrigatorios
+2022-09-28T09:21:35.345Z [store-api] error PUT  - Nome, CPF, telefone, email e endereço são obrigatorios
+2022-09-28T09:21:37.087Z [store-api] error PUT  - Nome, CPF, telefone, email e endereço são obrigatorios
+2022-09-28T09:21:46.606Z [store-api] error PUT  - Nome, CPF, telefone, email e endereço são obrigatorios
+2022-09-28T09:21:47.886Z [store-api] error PUT  - Nome, CPF, telefone, email e endereço são obrigatorios
+2022-09-28T09:21:51.669Z [store-api] error PUT  - Nome, CPF, telefone, email e endereço são obrigatorios
+2022-09-28T09:21:57.070Z [store-api] info GET/suppliers
+2022-09-28T09:22:43.904Z [store-api] error PUT  - Nome, CPF, telefone, email e endereço são obrigatorios
+2022-09-28T09:23:04.720Z [store-api] error PUT  - Nome, CPF, telefone, email e endereço são obrigatorios
+2022-09-28T09:23:43.484Z [store-api] info PUT /client - {"client_id":3,"name":"Guilherme  Vit","cpf":"06372658909","phone":"67999581929","email":"guilhermevit@hotmail.com","address":"Rua 14 de julho 4618 casa 01"}
+2022-09-28T09:23:45.410Z [store-api] info PUT /client - {"client_id":3,"name":"Guilherme  Vit","cpf":"06372658909","phone":"67999581929","email":"guilhermevit@hotmail.com","address":"Rua 14 de julho 4618 casa 01"}
+2022-09-28T09:23:52.061Z [store-api] info PUT /client - {"client_id":3,"name":"Guilherme Vit","cpf":"06372658909","phone":"67999581929","email":"guilhermevit@hotmail.com","address":"Rua 14 de julho 4618 casa 01"}
+2022-09-28T09:23:56.448Z [store-api] error PUT  - Nome, CPF, telefone, email e endereço são obrigatorios
+2022-09-28T09:24:00.817Z [store-api] error PUT  - Nome, CPF, telefone, email e endereço são obrigatorios
+2022-09-28T09:24:01.544Z [store-api] error PUT  - Nome, CPF, telefone, email e endereço são obrigatorios
+2022-09-28T09:24:02.264Z [store-api] error PUT  - Nome, CPF, telefone, email e endereço são obrigatorios
+2022-09-28T09:24:53.809Z [store-api] error PUT  - Nome, CPF, telefone, email e endereço são obrigatorios
+2022-09-28T09:24:54.652Z [store-api] error PUT  - Nome, CPF, telefone, email e endereço são obrigatorios
+2022-09-28T09:24:55.335Z [store-api] error PUT  - Nome, CPF, telefone, email e endereço são obrigatorios
+2022-09-28T09:24:56.137Z [store-api] error PUT  - Nome, CPF, telefone, email e endereço são obrigatorios
+2022-09-28T09:26:57.184Z [store-api] info PUT /supplier - {"supplier_id":3,"name":"Guilherme Vit","cnpj":"06372658909","phone":"67999581929","email":"guilhermevit@hotmail.com","address":"Rua 14 de julho 4618 casa 01"}
+2022-09-28T09:27:25.942Z [store-api] info PUT /supplier - {"supplier_id":3,"name":"Guilherme Vit","cnpj":"33.470.997/0001-00","phone":"67999581929","email":"guilhermevit@hotmail.com","address":"Rua 14 de julho 4618 casa 01"}
+2022-09-28T09:29:39.504Z [store-api] info PUT /product - {"product_id":1,"supplier_id":4,"name":"Ração cachorro","description":"Para cachorros porte grande","value":"125","stock":72}
+2022-09-28T09:30:05.458Z [store-api] info GET/sale
+2022-09-28T20:02:23.157Z [store-api] error POST  - Fornecedor inexistente!
+2022-09-28T20:03:12.917Z [store-api] info GET/product
+2022-09-28T20:03:49.773Z [store-api] info POST /product - {"name":"Ração","description":"Para gatos porte grande","value":75,"stock":2,"supplier_id":"5"}
+2022-09-28T20:04:17.676Z [store-api] info GET/product
+2022-09-28T20:04:48.975Z [store-api] info POST /sale - {"client_id":3,"product_id":10,"value":750,"date":"10/11/1986"}
+2022-09-28T20:05:08.516Z [store-api] error POST  - Produto inexistente!
+2022-09-28T20:14:17.190Z [store-api] info PUT /product - {"product_id":1,"supplier_id":4,"name":"Ração cachorro","description":"Para cachorros porte grande","value":"125","stock":72}
+2022-09-28T20:14:23.400Z [store-api] error PUT  - Nome, description , value , stock  e supplier_id são obrigatorios
+2022-09-28T20:14:32.837Z [store-api] info PUT /product - {"product_id":1,"supplier_id":4,"name":"Ração cachorro","description":"Para cachorros porte grande","value":"125","stock":"0"}
+2022-09-28T20:15:12.849Z [store-api] info POST /sale - {"client_id":4,"product_id":1,"value":750,"date":"10/11/1986"}
+2022-09-28T20:15:30.356Z [store-api] info GET/product
+2022-09-28T20:16:03.290Z [store-api] info PUT /product - {"product_id":1,"supplier_id":4,"name":"Ração cachorro","description":"Para cachorros porte grande","value":"125","stock":"0"}
+2022-09-28T20:16:04.537Z [store-api] info PUT /product - {"product_id":1,"supplier_id":4,"name":"Ração cachorro","description":"Para cachorros porte grande","value":"125","stock":"0"}
+2022-09-28T20:16:27.239Z [store-api] info PUT /product - {"product_id":1,"supplier_id":4,"name":"Ração 1211","description":"Para cachorros porte grande","value":"125","stock":"0"}
+2022-09-28T20:16:31.226Z [store-api] info GET/product
+2022-09-28T20:19:50.460Z [store-api] info PUT /product - {"product_id":1,"supplier_id":4,"name":"Ração 1211","description":"Para cachorros porte grande","value":"125","stock":"0"}
+2022-09-28T20:19:55.206Z [store-api] error POST  - Cannot access 'sale' before initialization
+2022-09-28T20:20:52.319Z [store-api] error POST  - Cannot access 'sale' before initialization
+2022-09-28T20:23:02.971Z [store-api] error POST  - column "cnpj" of relation "product" does not exist
+2022-09-28T20:23:57.914Z [store-api] error POST  - SaleRepository is not defined
+2022-09-28T20:25:03.569Z [store-api] error POST  - column "cnpj" of relation "product" does not exist
+2022-09-28T20:25:14.149Z [store-api] error POST  - column "cnpj" of relation "product" does not exist
+2022-09-28T20:25:54.396Z [store-api] error POST  - column "cnpj" of relation "product" does not exist
+2022-09-28T20:26:55.783Z [store-api] error POST  - column "cnpj" of relation "product" does not exist
+2022-09-28T20:27:38.761Z [store-api] info GET/product
+2022-09-28T20:28:05.048Z [store-api] error POST  - Cliente não encontrado!
+2022-09-28T20:28:21.206Z [store-api] error POST  - column "cnpj" of relation "product" does not exist
+2022-09-28T20:29:46.914Z [store-api] error POST  - column "cnpj" of relation "product" does not exist
+2022-09-28T20:30:18.341Z [store-api] error POST  - column "cnpj" of relation "product" does not exist
+2022-09-28T20:30:23.425Z [store-api] error PUT  - client_id  , product_id  , value   e date  são obrigatorios
+2022-09-28T20:47:23.943Z [store-api] info PUT /product - {"product_id":1,"supplier_id":4,"name":"Ração 1211","description":"Para cachorros porte grande","value":"125","stock":"0"}
+2022-09-28T20:48:10.017Z [store-api] error POST  - bind message supplies 5 parameters, but prepared statement "" requires 6
+2022-09-28T20:48:45.169Z [store-api] error POST  - bind message supplies 5 parameters, but prepared statement "" requires 6
+2022-09-28T20:49:17.522Z [store-api] info GET/sale
+2022-09-28T20:49:57.531Z [store-api] error POST  - Unexpected token , in JSON at position 83
+2022-09-28T20:50:07.830Z [store-api] error POST  - bind message supplies 5 parameters, but prepared statement "" requires 6
+2022-09-28T20:50:55.686Z [store-api] error POST  - syntax error at or near "INTO"
+2022-09-28T20:51:06.451Z [store-api] error POST  - syntax error at or near "("
+2022-09-28T20:51:18.691Z [store-api] info PUT /client - {"client_id":3,"name":"Guilherme Vit","cpf":"06372658909","phone":"67999581929","email":"guilhermevit@hotmail.com","address":"Rua 14 de julho 4618 casa 01"}
+2022-09-28T20:51:19.516Z [store-api] info PUT /client - {"client_id":3,"name":"Guilherme Vit","cpf":"06372658909","phone":"67999581929","email":"guilhermevit@hotmail.com","address":"Rua 14 de julho 4618 casa 01"}
+2022-09-28T20:51:29.560Z [store-api] info PUT /product - {"product_id":1,"supplier_id":4,"name":"Ração 1211","description":"Para cachorros porte grande","value":"125","stock":"0"}
+2022-09-28T20:51:30.268Z [store-api] info PUT /product - {"product_id":1,"supplier_id":4,"name":"Ração 1211","description":"Para cachorros porte grande","value":"125","stock":"0"}
+2022-09-28T20:51:38.959Z [store-api] info GET/product
+2022-09-28T20:51:42.989Z [store-api] info GET/product
+2022-09-28T20:52:04.436Z [store-api] info GET/product
+2022-09-28T20:52:29.969Z [store-api] info GET/product
+2022-09-28T20:52:57.567Z [store-api] info PUT /product - {"product_id":1,"supplier_id":4,"name":"Ração 1211","description":"Para cachorros porte grande","value":"125","stock":"0"}
+2022-09-28T20:53:50.408Z [store-api] info PUT /product - {"product_id":1,"supplier_id":4,"name":"Ração 1211","description":"Para cachorros porte grande","value":"125","stock":"0"}
+2022-09-28T20:53:51.015Z [store-api] info PUT /product - {"product_id":1,"supplier_id":4,"name":"Ração 1211","description":"Para cachorros porte grande","value":"125","stock":"0"}
+2022-09-28T20:53:51.383Z [store-api] info PUT /product - {"product_id":1,"supplier_id":4,"name":"Ração 1211","description":"Para cachorros porte grande","value":"125","stock":"0"}
+2022-09-28T20:53:51.622Z [store-api] info PUT /product - {"product_id":1,"supplier_id":4,"name":"Ração 1211","description":"Para cachorros porte grande","value":"125","stock":"0"}
+2022-09-28T20:53:51.840Z [store-api] info PUT /product - {"product_id":1,"supplier_id":4,"name":"Ração 1211","description":"Para cachorros porte grande","value":"125","stock":"0"}
+2022-09-28T20:53:52.047Z [store-api] info PUT /product - {"product_id":1,"supplier_id":4,"name":"Ração 1211","description":"Para cachorros porte grande","value":"125","stock":"0"}
+2022-09-28T20:53:52.240Z [store-api] info PUT /product - {"product_id":1,"supplier_id":4,"name":"Ração 1211","description":"Para cachorros porte grande","value":"125","stock":"0"}
+2022-09-28T20:53:52.449Z [store-api] info PUT /product - {"product_id":1,"supplier_id":4,"name":"Ração 1211","description":"Para cachorros porte grande","value":"125","stock":"0"}
+2022-09-28T20:53:52.711Z [store-api] info PUT /product - {"product_id":1,"supplier_id":4,"name":"Ração 1211","description":"Para cachorros porte grande","value":"125","stock":"0"}
+2022-09-28T20:53:57.082Z [store-api] info PUT /product - {"product_id":1,"supplier_id":4,"name":"Ração 1211","description":"Para cachorros porte grande","value":"125","stock":"0"}
+2022-09-28T20:53:57.797Z [store-api] info PUT /product - {"product_id":1,"supplier_id":4,"name":"Ração 1211","description":"Para cachorros porte grande","value":"125","stock":"0"}
+2022-09-28T20:54:06.333Z [store-api] info PUT /product - {"product_id":1,"supplier_id":4,"name":"Ração 1211","description":"Para cachorros porte grande","value":"125","stock":5}
+2022-09-28T20:54:07.153Z [store-api] info PUT /product - {"product_id":1,"supplier_id":4,"name":"Ração 1211","description":"Para cachorros porte grande","value":"125","stock":5}
+2022-09-28T20:54:12.266Z [store-api] info GET/product
+2022-09-28T20:54:13.037Z [store-api] info GET/product
+2022-09-28T20:54:13.924Z [store-api] info GET/product
+2022-09-28T20:54:14.373Z [store-api] info GET/product
+2022-09-28T20:54:14.621Z [store-api] info GET/product
+2022-09-28T20:54:14.935Z [store-api] info GET/product
+2022-09-28T20:54:15.153Z [store-api] info GET/product
+2022-09-28T20:54:15.321Z [store-api] info GET/product
+2022-09-28T20:54:15.498Z [store-api] info GET/product
+2022-09-28T20:54:15.675Z [store-api] info GET/product
+2022-09-28T20:54:15.851Z [store-api] info GET/product
+2022-09-28T20:54:16.041Z [store-api] info GET/product
+2022-09-28T20:54:31.430Z [store-api] info PUT /product - {"product_id":1,"supplier_id":4,"name":"Ração 1211","description":"Para cachorros porte grande","value":"125","stock":5}
+2022-09-28T20:54:32.171Z [store-api] info PUT /product - {"product_id":1,"supplier_id":4,"name":"Ração 1211","description":"Para cachorros porte grande","value":"125","stock":5}
+2022-09-28T20:54:32.956Z [store-api] info PUT /product - {"product_id":1,"supplier_id":4,"name":"Ração 1211","description":"Para cachorros porte grande","value":"125","stock":5}
+2022-09-28T20:54:48.418Z [store-api] info DELETE/product
+2022-09-28T20:54:52.739Z [store-api] info GET/product
+2022-09-28T20:54:53.645Z [store-api] info GET/product
+2022-09-28T20:55:04.454Z [store-api] error DELETE  - invalid input syntax for type integer: "*"
+2022-09-28T20:55:10.301Z [store-api] error DELETE  - invalid input syntax for type integer: "ALL"
+2022-09-28T20:55:16.088Z [store-api] info DELETE/product
+2022-09-28T20:55:20.178Z [store-api] info DELETE/product
+2022-09-28T20:55:23.680Z [store-api] info DELETE/product
+2022-09-28T20:55:28.941Z [store-api] info DELETE/product
+2022-09-28T20:55:32.033Z [store-api] info DELETE/product
+2022-09-28T20:55:35.311Z [store-api] info DELETE/product
+2022-09-28T20:55:40.559Z [store-api] info DELETE/product
+2022-09-28T20:55:52.185Z [store-api] info GET/product
+2022-09-28T20:56:44.229Z [store-api] info DELETE/product
+2022-09-28T20:56:47.931Z [store-api] info DELETE/product
+2022-09-28T20:56:51.216Z [store-api] info DELETE/product
+2022-09-28T20:56:54.403Z [store-api] info DELETE/product
+2022-09-28T20:56:59.266Z [store-api] info DELETE/product
+2022-09-28T20:57:02.694Z [store-api] info DELETE/product
+2022-09-28T20:57:06.092Z [store-api] info DELETE/product
+2022-09-28T20:57:09.351Z [store-api] info DELETE/product
+2022-09-28T20:57:12.584Z [store-api] info GET/product
+2022-09-28T20:57:13.658Z [store-api] info GET/product
+2022-09-28T20:58:39.713Z [store-api] error POST  - Fornecedor inexistente!
+2022-09-28T20:58:51.478Z [store-api] info POST /product - {"name":"NootBook","description":"HP Envy X360 15,6 Pol","value":3600,"stock":1,"supplier_id":"2"}
+2022-09-28T21:00:12.551Z [store-api] info GET/product
+2022-09-28T21:00:38.093Z [store-api] error PUT  - Nome, description , value , stock  e supplier_id são obrigatorios
+2022-09-28T21:01:04.116Z [store-api] error PUT  - Nome, description , value , stock  e supplier_id são obrigatorios
+2022-09-28T21:01:05.282Z [store-api] error PUT  - Nome, description , value , stock  e supplier_id são obrigatorios
+2022-09-28T21:01:18.182Z [store-api] error PUT  - Nome, description , value , stock  e supplier_id são obrigatorios
+2022-09-28T21:01:30.760Z [store-api] info GET/product
+2022-09-28T21:01:49.818Z [store-api] info PUT /product - {"product_id":15,"supplier_id":2,"name":"NootBook","description":"HP Envy X360 15,6 Pol","value":"3950","stock":1}
+2022-09-28T21:01:58.134Z [store-api] info GET/product
+2022-09-28T21:01:59.073Z [store-api] info GET/product
+2022-09-28T21:01:59.862Z [store-api] info GET/product
+2022-09-28T21:02:00.639Z [store-api] info GET/product
+2022-09-28T21:02:20.538Z [store-api] info PUT /product - {"product_id":15,"supplier_id":2,"name":"NootBook","description":"HP Envy X360 15,6 Pol","value":"3950","stock":1}
+2022-09-28T21:02:21.488Z [store-api] info PUT /product - {"product_id":15,"supplier_id":2,"name":"NootBook","description":"HP Envy X360 15,6 Pol","value":"3950","stock":1}
+2022-09-28T21:02:22.104Z [store-api] info PUT /product - {"product_id":15,"supplier_id":2,"name":"NootBook","description":"HP Envy X360 15,6 Pol","value":"3950","stock":1}
+2022-09-28T21:02:22.677Z [store-api] info PUT /product - {"product_id":15,"supplier_id":2,"name":"NootBook","description":"HP Envy X360 15,6 Pol","value":"3950","stock":1}
+2022-09-28T21:02:23.448Z [store-api] info PUT /product - {"product_id":15,"supplier_id":2,"name":"NootBook","description":"HP Envy X360 15,6 Pol","value":"3950","stock":1}
+2022-09-28T21:02:24.043Z [store-api] info PUT /product - {"product_id":15,"supplier_id":2,"name":"NootBook","description":"HP Envy X360 15,6 Pol","value":"3950","stock":1}
+2022-09-28T21:02:24.661Z [store-api] info PUT /product - {"product_id":15,"supplier_id":2,"name":"NootBook","description":"HP Envy X360 15,6 Pol","value":"3950","stock":1}
+2022-09-28T21:02:32.148Z [store-api] info PUT /product - {"product_id":15,"supplier_id":2,"name":"NootBook","description":"HP Envy X360 15,6 Pol","value":"3950","stock":1}
+2022-09-28T21:02:34.767Z [store-api] info PUT /product - {"product_id":15,"supplier_id":2,"name":"NootBook","description":"HP Envy X360 15,6 Pol","value":"3950","stock":1}
+2022-09-28T21:02:35.890Z [store-api] info PUT /product - {"product_id":15,"supplier_id":2,"name":"NootBook","description":"HP Envy X360 15,6 Pol","value":"3950","stock":1}
+2022-09-28T21:02:36.882Z [store-api] info PUT /product - {"product_id":15,"supplier_id":2,"name":"NootBook","description":"HP Envy X360 15,6 Pol","value":"3950","stock":1}
+2022-09-28T21:02:37.472Z [store-api] info PUT /product - {"product_id":15,"supplier_id":2,"name":"NootBook","description":"HP Envy X360 15,6 Pol","value":"3950","stock":1}
+2022-09-28T21:02:37.856Z [store-api] info PUT /product - {"product_id":15,"supplier_id":2,"name":"NootBook","description":"HP Envy X360 15,6 Pol","value":"3950","stock":1}
+2022-09-28T21:02:38.101Z [store-api] info PUT /product - {"product_id":15,"supplier_id":2,"name":"NootBook","description":"HP Envy X360 15,6 Pol","value":"3950","stock":1}
+2022-09-28T21:02:38.312Z [store-api] info PUT /product - {"product_id":15,"supplier_id":2,"name":"NootBook","description":"HP Envy X360 15,6 Pol","value":"3950","stock":1}
+2022-09-28T21:02:38.467Z [store-api] info PUT /product - {"product_id":15,"supplier_id":2,"name":"NootBook","description":"HP Envy X360 15,6 Pol","value":"3950","stock":1}
+2022-09-28T21:02:38.626Z [store-api] info PUT /product - {"product_id":15,"supplier_id":2,"name":"NootBook","description":"HP Envy X360 15,6 Pol","value":"3950","stock":1}
+2022-09-28T21:02:38.799Z [store-api] info PUT /product - {"product_id":15,"supplier_id":2,"name":"NootBook","description":"HP Envy X360 15,6 Pol","value":"3950","stock":1}
+2022-09-28T21:02:38.992Z [store-api] info PUT /product - {"product_id":15,"supplier_id":2,"name":"NootBook","description":"HP Envy X360 15,6 Pol","value":"3950","stock":1}
+2022-09-28T21:02:39.152Z [store-api] info PUT /product - {"product_id":15,"supplier_id":2,"name":"NootBook","description":"HP Envy X360 15,6 Pol","value":"3950","stock":1}
+2022-09-28T21:02:39.313Z [store-api] info PUT /product - {"product_id":15,"supplier_id":2,"name":"NootBook","description":"HP Envy X360 15,6 Pol","value":"3950","stock":1}
+2022-09-28T21:02:39.475Z [store-api] info PUT /product - {"product_id":15,"supplier_id":2,"name":"NootBook","description":"HP Envy X360 15,6 Pol","value":"3950","stock":1}
+2022-09-28T21:04:07.194Z [store-api] info PUT /product - {"product_id":15,"supplier_id":2,"name":"NootBook","description":"HP Envy X360 15,6 Pol","value":"3","stock":1}
+2022-09-28T21:04:19.741Z [store-api] info GET/product
+2022-09-28T21:04:20.976Z [store-api] info GET/product
+2022-09-28T21:05:30.922Z [store-api] info GET/product
+2022-09-28T21:05:33.153Z [store-api] info PUT /product - {"product_id":15,"supplier_id":2,"name":"NootBook","description":"HP Envy X360 15,6 Pol","value":"3","stock":1}
+2022-09-28T21:05:34.436Z [store-api] info PUT /product - {"product_id":15,"supplier_id":2,"name":"NootBook","description":"HP Envy X360 15,6 Pol","value":"3","stock":1}
+2022-09-28T21:05:40.637Z [store-api] info PUT /client - {"client_id":3,"name":"Guilherme Vit","cpf":"06372658909","phone":"67999581929","email":"guilhermevit@hotmail.com","address":"Rua 14 de julho 4618 casa 01"}
+2022-09-28T21:05:41.460Z [store-api] info PUT /client - {"client_id":3,"name":"Guilherme Vit","cpf":"06372658909","phone":"67999581929","email":"guilhermevit@hotmail.com","address":"Rua 14 de julho 4618 casa 01"}
+2022-09-28T21:05:49.009Z [store-api] info PUT /client - {"client_id":3,"name":"Guilherme Vit","cpf":"06372658909","phone":"4444","email":"guilhermevit@hotmail.com","address":"Rua 14 de julho 4618 casa 01"}
+2022-09-28T21:05:52.024Z [store-api] info GET/client
+2022-09-28T21:05:52.688Z [store-api] info GET/client
+2022-09-28T21:05:53.269Z [store-api] info GET/client
+2022-09-28T21:05:53.805Z [store-api] info GET/client
+2022-09-28T21:10:48.499Z [store-api] info PUT /client - {"client_id":3,"name":"Guilherme Vit","cpf":"06372658909","phone":"4444","email":"guilhermevit@hotmail.com","address":"Rua 14 de julho 4618 casa 01"}
+2022-09-28T21:10:49.440Z [store-api] info PUT /client - {"client_id":3,"name":"Guilherme Vit","cpf":"06372658909","phone":"4444","email":"guilhermevit@hotmail.com","address":"Rua 14 de julho 4618 casa 01"}
+2022-09-28T21:10:52.278Z [store-api] info GET/clients
+2022-09-28T21:10:53.569Z [store-api] info GET/clients
+2022-09-28T21:12:06.188Z [store-api] info PUT /client - {"client_id":3,"name":"Guilherme Vit","cpf":"06372658909","phone":"4444","email":"guilhermevit@hotmail.com","address":"Rua 14 de julho 4618 casa 01"}
+2022-09-28T21:12:08.075Z [store-api] info PUT /client - {"client_id":3,"name":"Guilherme Vit","cpf":"06372658909","phone":"4444","email":"guilhermevit@hotmail.com","address":"Rua 14 de julho 4618 casa 01"}
+2022-09-28T21:12:16.148Z [store-api] info GET/client
+2022-09-28T21:12:24.564Z [store-api] info GET/client
+2022-09-28T21:12:25.810Z [store-api] info GET/client
+2022-09-28T21:12:29.388Z [store-api] info PUT /client - {"client_id":3,"name":"Guilherme Vit","cpf":"06372658909","phone":"4444","email":"guilhermevit@hotmail.com","address":"Rua 14 de julho 4618 casa 01"}
+2022-09-28T21:12:30.322Z [store-api] info PUT /client - {"client_id":3,"name":"Guilherme Vit","cpf":"06372658909","phone":"4444","email":"guilhermevit@hotmail.com","address":"Rua 14 de julho 4618 casa 01"}
+2022-09-28T21:12:30.915Z [store-api] info PUT /client - {"client_id":3,"name":"Guilherme Vit","cpf":"06372658909","phone":"4444","email":"guilhermevit@hotmail.com","address":"Rua 14 de julho 4618 casa 01"}
+2022-09-28T21:12:31.468Z [store-api] info PUT /client - {"client_id":3,"name":"Guilherme Vit","cpf":"06372658909","phone":"4444","email":"guilhermevit@hotmail.com","address":"Rua 14 de julho 4618 casa 01"}
+2022-09-28T21:12:36.280Z [store-api] info GET/client
+2022-09-28T21:12:37.082Z [store-api] info GET/client
+2022-09-28T21:12:37.727Z [store-api] info GET/client
+2022-09-28T21:12:38.231Z [store-api] info GET/client
+2022-09-28T21:12:38.879Z [store-api] info GET/client
+2022-09-28T21:15:55.321Z [store-api] error PUT  - Nome, CPF, telefone, email e endereço são obrigatorios
+2022-09-28T21:15:57.056Z [store-api] error PUT  - Nome, CPF, telefone, email e endereço são obrigatorios
+2022-09-28T21:16:03.977Z [store-api] info PUT /client - {"client_id":3,"name":"Guilherme Vit","cpf":"06372658909","phone":"4444","email":"guilhermevit@hotmail.com","address":"Rua 14 de julho 4618 casa 01"}
+2022-09-28T21:16:05.333Z [store-api] info PUT /client - {"client_id":3,"name":"Guilherme Vit","cpf":"06372658909","phone":"4444","email":"guilhermevit@hotmail.com","address":"Rua 14 de julho 4618 casa 01"}
+2022-09-28T21:16:10.950Z [store-api] info GET/client
+2022-09-28T21:16:21.690Z [store-api] info GET/clients
+2022-09-28T21:18:49.784Z [store-api] error PUT  - ClientService is not defined
+2022-09-28T21:18:58.999Z [store-api] error PUT  - column "address" of relation "clients" does not exist
+2022-09-28T21:19:10.959Z [store-api] error PUT  - Nome, CPF, telefone, email e endereço são obrigatorios
+2022-09-28T21:19:15.935Z [store-api] error PUT  - Nome, CPF, telefone, email e endereço são obrigatorios
+2022-09-28T21:19:22.888Z [store-api] error PUT  - column "address" of relation "clients" does not exist
+2022-09-28T21:20:49.791Z [store-api] error PUT  - column "address" of relation "clients" does not exist
+2022-09-28T21:21:09.879Z [store-api] info PUT /client - {"client_id":3,"name":"Guilherme Vit","cpf":"06372658909","phone":"4444","email":"guilhermevit@hotmail.com","address":"Rua 14 de julho 4618 casa 01"}
+2022-09-28T21:21:16.118Z [store-api] info PUT /client - {"client_id":3,"name":"Guilherme Vit","cpf":"06372658909","phone":"4444","email":"guilhermevit@hotmail.com","address":"Rua 14 de julho 4618 casa 01"}
+2022-09-28T21:21:20.414Z [store-api] info GET/client
+2022-09-28T21:21:21.313Z [store-api] info GET/client
+2022-09-28T21:21:22.066Z [store-api] info GET/client
+2022-09-28T21:22:08.293Z [store-api] info GET/client
+2022-09-28T21:22:18.926Z [store-api] info PUT /client - {"client_id":3,"name":"Guilherme Vit","cpf":"06372658909","phone":"4444","email":"guilhermevit@hotmail.com","address":"Rua 14 de julho 4618 casa 01"}
+2022-09-28T21:23:23.545Z [store-api] info POST /client - {"name":"Guilherme M Vit","cpf":"06372658909","phone":"67999581929","email":"guilhermevit@hotmail.com","address":"Rua 14 de julho 4618 casa 01"}
+2022-09-28T21:25:58.488Z [store-api] info POST /client - {"name":"Guilherme M Vit","cpf":"06372658909","phone":"67999581929","email":"guilhermevit@hotmail.com","address":"Rua 14 de julho 4618 casa 01"}
+2022-09-28T21:25:59.699Z [store-api] info POST /client - {"name":"Guilherme M Vit","cpf":"06372658909","phone":"67999581929","email":"guilhermevit@hotmail.com","address":"Rua 14 de julho 4618 casa 01"}
+2022-09-28T21:26:05.785Z [store-api] info PUT /client - {"client_id":3,"name":"Guilherme Vit","cpf":"06372658909","phone":"4444","email":"guilhermevit@hotmail.com","address":"Rua 14 de julho 4618 casa 01"}
+2022-09-28T21:26:06.411Z [store-api] info PUT /client - {"client_id":3,"name":"Guilherme Vit","cpf":"06372658909","phone":"4444","email":"guilhermevit@hotmail.com","address":"Rua 14 de julho 4618 casa 01"}
+2022-09-28T21:26:15.600Z [store-api] info PUT /client - {"client_id":3,"name":"Guilherme Vit","cpf":"06372658909","phone":"4444","email":"guilhermevit@hotmail.com","address":"Rua 14 de julho 4618 casa 01"}
+2022-09-28T21:27:08.417Z [store-api] info PUT /product - {"product_id":15,"supplier_id":2,"name":"NootBook","description":"HP Envy X360 15,6 Pol","value":"3","stock":1}
+2022-09-28T21:27:10.932Z [store-api] info PUT /product - {"product_id":15,"supplier_id":2,"name":"NootBook","description":"HP Envy X360 15,6 Pol","value":"3","stock":1}
+2022-09-28T21:27:11.805Z [store-api] info PUT /product - {"product_id":15,"supplier_id":2,"name":"NootBook","description":"HP Envy X360 15,6 Pol","value":"3","stock":1}
+2022-09-28T21:27:14.975Z [store-api] info PUT /client - {"client_id":3,"name":"Guilherme Vit","cpf":"06372658909","phone":"4444","email":"guilhermevit@hotmail.com","address":"Rua 14 de julho 4618 casa 01"}
+2022-09-28T21:29:10.021Z [store-api] info PUT /client - undefined
+2022-09-28T21:29:11.903Z [store-api] info PUT /client - undefined
+2022-09-28T21:29:14.250Z [store-api] info GET/client
+2022-09-28T21:29:15.050Z [store-api] info GET/client
+2022-09-28T21:29:15.262Z [store-api] info GET/client
+2022-09-28T21:29:15.470Z [store-api] info GET/client
+2022-09-28T21:29:15.673Z [store-api] info GET/client
+2022-09-28T21:29:15.871Z [store-api] info GET/client
+2022-09-28T21:29:18.616Z [store-api] info GET/client
+2022-09-28T21:29:21.356Z [store-api] info PUT /client - undefined
+2022-09-28T21:32:49.333Z [store-api] info PUT /client - undefined
+2022-09-28T21:41:34.081Z [store-api] info GET/client
+2022-09-28T21:41:43.567Z [store-api] error POST  - column "adress" of relation "clients" does not exist
+2022-09-28T21:42:18.265Z [store-api] info POST /client - {"name":"Guilherme M Vit","cpf":"06372658909","phone":"67999581929","email":"guilhermevit@hotmail.com","address":"Rua 14 de julho 4618 casa 01"}
+2022-09-28T21:42:29.143Z [store-api] info GET/client
+2022-09-28T21:42:36.704Z [store-api] info PUT /client - {"client_id":1,"name":"Guilherme Vit","cpf":"06372658909","phone":"4444","email":"guilhermevit@hotmail.com","address":"Rua 14 de julho 4618 casa 01"}
+2022-09-28T21:42:40.107Z [store-api] info GET/client
+2022-09-28T21:44:13.507Z [store-api] info GET/client
+2022-09-28T21:44:17.647Z [store-api] info GET/client
+2022-09-28T21:47:54.060Z [store-api] error POST  - column "adress" of relation "suppliers" does not exist
+2022-09-28T21:48:09.699Z [store-api] info POST /supplier - {"name":"DELL","cnpj":"33.470.997/0001-00","phone":"67999581929","email":"venads.dell@hotmail.com","address":"Rua 14 de julho 4618 casa 01"}
+2022-09-28T21:48:26.029Z [store-api] info GET/suppliers
+2022-09-28T21:48:48.400Z [store-api] error PUT  - Nome, CPF, telefone, email e endereço são obrigatorios
+2022-09-28T21:50:10.058Z [store-api] info PUT /supplier - {"supplier_id":1,"name":"Guilherme Vit","cnpj":"06372658909","phone":"4444","email":"guilhermevit@hotmail.com","address":"Rua 14 de julho 4618 casa 01"}
+2022-09-28T21:50:16.742Z [store-api] info GET/suppliers
+2022-09-28T21:50:18.650Z [store-api] info GET/suppliers
+2022-09-28T21:50:25.828Z [store-api] info GET/suppliers
+2022-09-28T21:50:26.806Z [store-api] info GET/suppliers
+2022-09-28T21:50:27.513Z [store-api] info GET/suppliers
+2022-09-28T21:50:32.075Z [store-api] info GET/supplier
+2022-09-28T21:50:33.229Z [store-api] info GET/supplier
+2022-09-28T21:52:00.725Z [store-api] info PUT /supplier - {"supplier_id":1,"name":"Guilherme Vit","cnpj":"06372658909","phone":"4444","email":"guilhermevit@hotmail.com","address":"Rua 14 de julho 4618 casa 01"}
+2022-09-28T21:52:01.512Z [store-api] info PUT /supplier - {"supplier_id":1,"name":"Guilherme Vit","cnpj":"06372658909","phone":"4444","email":"guilhermevit@hotmail.com","address":"Rua 14 de julho 4618 casa 01"}
+2022-09-28T21:52:02.121Z [store-api] info PUT /supplier - {"supplier_id":1,"name":"Guilherme Vit","cnpj":"06372658909","phone":"4444","email":"guilhermevit@hotmail.com","address":"Rua 14 de julho 4618 casa 01"}
+2022-09-28T21:52:02.808Z [store-api] info PUT /supplier - {"supplier_id":1,"name":"Guilherme Vit","cnpj":"06372658909","phone":"4444","email":"guilhermevit@hotmail.com","address":"Rua 14 de julho 4618 casa 01"}
+2022-09-28T21:52:03.264Z [store-api] info PUT /supplier - {"supplier_id":1,"name":"Guilherme Vit","cnpj":"06372658909","phone":"4444","email":"guilhermevit@hotmail.com","address":"Rua 14 de julho 4618 casa 01"}
+2022-09-28T21:52:03.643Z [store-api] info PUT /supplier - {"supplier_id":1,"name":"Guilherme Vit","cnpj":"06372658909","phone":"4444","email":"guilhermevit@hotmail.com","address":"Rua 14 de julho 4618 casa 01"}
+2022-09-28T21:52:03.890Z [store-api] info PUT /supplier - {"supplier_id":1,"name":"Guilherme Vit","cnpj":"06372658909","phone":"4444","email":"guilhermevit@hotmail.com","address":"Rua 14 de julho 4618 casa 01"}
+2022-09-28T21:52:04.072Z [store-api] info PUT /supplier - {"supplier_id":1,"name":"Guilherme Vit","cnpj":"06372658909","phone":"4444","email":"guilhermevit@hotmail.com","address":"Rua 14 de julho 4618 casa 01"}
+2022-09-28T21:52:04.249Z [store-api] info PUT /supplier - {"supplier_id":1,"name":"Guilherme Vit","cnpj":"06372658909","phone":"4444","email":"guilhermevit@hotmail.com","address":"Rua 14 de julho 4618 casa 01"}
+2022-09-28T21:52:13.256Z [store-api] info GET/suppliers
+2022-09-28T21:52:14.473Z [store-api] info GET/suppliers
+2022-09-28T21:53:02.059Z [store-api] error PUT  - Nome, CPF, telefone, email e endereço são obrigatorios
+2022-09-28T21:53:19.028Z [store-api] info PUT /supplier - {"supplier_id":1,"name":"Guilherme Vit","cnpj":"06372658909","phone":"4444","email":"guilhermevit@hotmail.com","address":"Rua 14 de julho 4618 casa 01"}
+2022-09-28T21:56:04.877Z [store-api] info PUT /supplier - {"supplier_id":1,"name":"DELL","cnpj":"33.470.997/0001-00","phone":"67999581929","email":"vendas.dell@hotmail.com","address":"Rua 14 de julho 4618 casa 01"}
+2022-09-28T21:56:06.030Z [store-api] info PUT /supplier - {"supplier_id":1,"name":"DELL","cnpj":"33.470.997/0001-00","phone":"67999581929","email":"vendas.dell@hotmail.com","address":"Rua 14 de julho 4618 casa 01"}
+2022-09-28T21:56:09.871Z [store-api] info GET/suppliers
+2022-09-28T21:56:11.294Z [store-api] info GET/suppliers
+2022-09-28T21:56:13.681Z [store-api] info GET/suppliers
+2022-09-28T22:00:09.125Z [store-api] info PUT /supplier - {"supplier_id":1,"name":"DELL","cnpj":"33.470.997/0001-00","phone":"67999581929","email":"vendas.dell@hotmail.com","address":"Rua 14 de julho 4618 casa 01"}
+2022-09-28T22:00:15.966Z [store-api] info GET/suppliers
+2022-09-28T22:00:27.262Z [store-api] info PUT /supplier - {"supplier_id":1,"name":"DELL","cnpj":"33.470.997/0001-00","phone":"67999581929","email":"vendas.dell@hotmail.com","address":"Rua 14 de julho 4618 casa 01"}
+2022-09-28T22:00:28.109Z [store-api] info PUT /supplier - {"supplier_id":1,"name":"DELL","cnpj":"33.470.997/0001-00","phone":"67999581929","email":"vendas.dell@hotmail.com","address":"Rua 14 de julho 4618 casa 01"}
+2022-09-28T22:00:28.827Z [store-api] info PUT /supplier - {"supplier_id":1,"name":"DELL","cnpj":"33.470.997/0001-00","phone":"67999581929","email":"vendas.dell@hotmail.com","address":"Rua 14 de julho 4618 casa 01"}
+2022-09-28T22:00:29.559Z [store-api] info PUT /supplier - {"supplier_id":1,"name":"DELL","cnpj":"33.470.997/0001-00","phone":"67999581929","email":"vendas.dell@hotmail.com","address":"Rua 14 de julho 4618 casa 01"}
+2022-09-28T22:00:35.704Z [store-api] info GET/suppliers
+2022-09-28T22:00:49.072Z [store-api] info PUT /supplier - {"supplier_id":1,"name":"DELL","cnpj":"33.470.997/0001-012","phone":"67999581929","email":"vendas.dell@hotmail.com","address":"Rua 14 de julho 4618 casa 01"}
+2022-09-28T22:00:52.384Z [store-api] info GET/suppliers
+2022-09-28T22:01:12.433Z [store-api] info PUT /supplier - {"supplier_id":1,"name":"DELL","cnpj":"33.470.997/0001-012","phone":"67999581929","email":"vendas.dell@hotmail.com","address":"Rua 14 de julho 4618 casa 01"}
+2022-09-28T22:01:21.755Z [store-api] info GET/suppliers
+2022-09-28T22:01:44.507Z [store-api] info PUT /supplier - {"supplier_id":1,"name":"DELL","cnpj":"33.470.997/0001-012","phone":"67999581929","email":"vendas.dell@hotmail.com","address":"Rua 14 de julho 4618 casa 01"}
+2022-09-28T22:01:48.643Z [store-api] info GET/suppliers
+2022-09-28T22:02:04.750Z [store-api] info PUT /supplier - {"supplier_id":1,"name":"DELL","cnpj":"33.470.997/0001-012","phone":"67999581929","email":"vendas.dell@hotmail.com","address":"Rua 14 de julho 4618 casa 01"}
+2022-09-28T22:02:30.505Z [store-api] info PUT /supplier - {"supplier_id":1,"name":"DELL","cnpj":"33.470.997/0001-012","phone":"67999581929","email":"vendas.dell@hotmail.com","address":"Rua 14 de julho 4618 casa 01"}
+2022-09-28T22:02:37.363Z [store-api] info GET/suppliers
+2022-09-28T22:04:32.763Z [store-api] info PUT /supplier - {"supplier_id":1,"name":"DELL","cnpj":"33.470.997/0001-012","phone":"67999581929","email":"vendas.dell@hotmail.com","address":"Rua 14 de julho 4618 casa 01"}
+2022-09-28T22:04:36.925Z [store-api] info PUT /supplier - {"supplier_id":1,"name":"DELL","cnpj":"33.470.997/0001-012","phone":"67999581929","email":"vendas.dell@hotmail.com","address":"Rua 14 de julho 4618 casa 01"}
+2022-09-28T22:04:38.156Z [store-api] info PUT /supplier - {"supplier_id":1,"name":"DELL","cnpj":"33.470.997/0001-012","phone":"67999581929","email":"vendas.dell@hotmail.com","address":"Rua 14 de julho 4618 casa 01"}
+2022-09-28T22:04:43.088Z [store-api] info GET/suppliers
+2022-09-28T22:04:44.658Z [store-api] info GET/suppliers
+2022-09-28T22:04:54.802Z [store-api] error PUT  - Nome, CPF, telefone, email e endereço são obrigatorios
+2022-09-28T22:04:56.029Z [store-api] error PUT  - Nome, CPF, telefone, email e endereço são obrigatorios
+2022-09-28T22:05:47.853Z [store-api] error PUT  - Nome, CPF, telefone, email e endereço são obrigatorios
+2022-09-28T22:05:50.151Z [store-api] info PUT /supplier - {"suppliers_id":1,"name":"DELL","cnpj":"33.470.997/0001-012","phone":"67999581929","email":"vendas.dell@hotmail.com","address":"Rua 14 de julho 4618 casa 01"}
+2022-09-28T22:05:54.932Z [store-api] info GET/suppliers
+2022-09-28T22:07:04.707Z [store-api] info PUT /supplier - {"suppliers_id":1,"name":"DELL","cnpj":"33.470.997/0001-012","phone":"67999581929","email":"vendas.dell@hotmail.com","address":"Rua 14 de julho 4618 casa 01"}
+2022-09-28T22:07:05.547Z [store-api] info PUT /supplier - {"suppliers_id":1,"name":"DELL","cnpj":"33.470.997/0001-012","phone":"67999581929","email":"vendas.dell@hotmail.com","address":"Rua 14 de julho 4618 casa 01"}
+2022-09-28T22:07:06.348Z [store-api] info PUT /supplier - {"suppliers_id":1,"name":"DELL","cnpj":"33.470.997/0001-012","phone":"67999581929","email":"vendas.dell@hotmail.com","address":"Rua 14 de julho 4618 casa 01"}
+2022-09-28T22:07:32.446Z [store-api] info PUT /supplier - {"suppliers_id":1,"name":"DELL","cnpj":"33.470.997/0001-00","phone":"67999581929","email":"venads.dell@hotmail.com","address":"Rua 14 de julho 4618 casa 01"}
+2022-09-28T22:07:41.800Z [store-api] info PUT /supplier - {"suppliers_id":1,"name":"DELL","cnpj":"33.470.997/0001-00","phone":"67999581929","email":"vendas.dell@hotmail.com","address":"Rua 14 de julho 4618 casa 01"}
+2022-09-28T22:07:44.660Z [store-api] info GET/suppliers
+2022-09-28T22:07:45.529Z [store-api] info GET/suppliers
+2022-09-28T22:08:47.471Z [store-api] info GET/suppliers
+2022-09-28T22:10:33.221Z [store-api] info PUT /supplier - {"suppliers_id":1,"name":"DELL","cnpj":"33.470.997/0001-00","phone":"67999581929","email":"vendas.dell@hotmail.com","address":"Rua 14 de julho 4618 casa 01"}
+2022-09-28T22:10:34.174Z [store-api] info PUT /supplier - {"suppliers_id":1,"name":"DELL","cnpj":"33.470.997/0001-00","phone":"67999581929","email":"vendas.dell@hotmail.com","address":"Rua 14 de julho 4618 casa 01"}
+2022-09-28T22:13:07.906Z [store-api] info GET/suppliers
+2022-09-28T22:13:09.486Z [store-api] info GET/suppliers
+2022-09-28T22:13:14.964Z [store-api] info PUT /supplier - {"suppliers_id":1,"name":"DELL","cnpj":"33.470.997/0001-00","phone":"67999581929","email":"vendas.dell@hotmail.com","address":"Rua 14 de julho 4618 casa 01"}
+2022-09-28T22:13:17.019Z [store-api] info PUT /supplier - {"suppliers_id":1,"name":"DELL","cnpj":"33.470.997/0001-00","phone":"67999581929","email":"vendas.dell@hotmail.com","address":"Rua 14 de julho 4618 casa 01"}
+2022-09-28T22:17:12.356Z [store-api] info PUT /client - {"client_id":1,"name":"Guilherme Vit","cpf":"06372658909","phone":"6788558188","email":"guilhermevit@hotmail.com","address":"Rua 14 de julho 4618 casa 01"}
+2022-09-28T22:17:15.542Z [store-api] info GET/client
+2022-09-28T22:17:29.528Z [store-api] info GET/suppliers
+2022-09-28T22:21:59.935Z [store-api] info PUT /supplier - {"suppliers_id":1,"name":"DELL","cnpj":"33.470.997/0001-00","phone":"67999581929","email":"vendas.dell@hotmail.com","address":"Rua 14 de julho 4618 casa 01"}
+2022-09-28T22:22:02.406Z [store-api] info PUT /supplier - {"suppliers_id":1,"name":"DELL","cnpj":"33.470.997/0001-00","phone":"67999581929","email":"vendas.dell@hotmail.com","address":"Rua 14 de julho 4618 casa 01"}
+2022-09-28T22:22:03.691Z [store-api] info PUT /supplier - {"suppliers_id":1,"name":"DELL","cnpj":"33.470.997/0001-00","phone":"67999581929","email":"vendas.dell@hotmail.com","address":"Rua 14 de julho 4618 casa 01"}
+2022-09-28T22:22:12.809Z [store-api] info PUT /supplier - {"suppliers_id":1,"name":"DELL","cnpj":"33.470.997/0001-00","phone":"67999581929","email":"vendas.dell@hotmail.com","address":"Rua 14 de julho 4618 casa 01"}
+2022-09-28T22:22:23.640Z [store-api] info GET/suppliers
+2022-09-28T22:24:32.255Z [store-api] error PUT  - supplier is not defined
+2022-09-28T22:24:59.086Z [store-api] info PUT /supplier - {"suppliers_id":1,"name":"DELL","cnpj":"33.470.997/0001-00","phone":"67999581929","email":"vendas.dell@hotmail.com","address":"Rua 14 de julho 4618 casa 01"}
+2022-09-28T22:25:00.978Z [store-api] info PUT /supplier - {"suppliers_id":1,"name":"DELL","cnpj":"33.470.997/0001-00","phone":"67999581929","email":"vendas.dell@hotmail.com","address":"Rua 14 de julho 4618 casa 01"}
+2022-09-28T22:25:03.712Z [store-api] info GET/suppliers
+2022-09-28T22:25:05.412Z [store-api] info GET/suppliers
+2022-09-28T22:25:29.355Z [store-api] info GET/suppliers
+2022-09-28T22:25:30.518Z [store-api] info GET/suppliers
+2022-09-28T22:25:34.500Z [store-api] info PUT /supplier - {"suppliers_id":1,"name":"DELL","cnpj":"33.470.997/0001-00","phone":"67999581929","email":"vendas.dell@hotmail.com","address":"Rua 14 de julho 4618 casa 01"}
+2022-09-29T13:04:30.436Z [store-api] info POST /client - {"name":"Guilherme M Vit","cpf":"06372658909","phone":"67999581929","email":"guilhermevit@hotmail.com","address":"Rua 14 de julho 4618 casa 01"}
+2022-09-29T13:04:37.431Z [store-api] info GET/client
+2022-09-29T13:05:14.211Z [store-api] info PUT /client - {"client_id":1,"name":"Guilherme Marcos Vit","cpf":"063.726.589-09","phone":"6788558188","email":"guilhermevit@hotmail.com","address":"Rua 14 de julho 4618 casa 01"}
+2022-09-29T13:05:17.873Z [store-api] info GET/client
+2022-09-29T13:06:50.958Z [store-api] info POST /client - {"name":"Tabatha Bensiman Ciampi","cpf":"333.637.668-82","phone":"67998602312","email":"tathabc@gmail.com","address":"Rua 14 de julho 4618 casa 01"}
+2022-09-29T13:06:57.128Z [store-api] info GET/client
+2022-09-29T13:07:16.848Z [store-api] info POST /client - {"name":"Tabatha Bensiman Ciampi","cpf":"333.637.668-82","phone":"67998602312","email":"tathabc@gmail.com","address":"Rua 14 de julho 4618 casa 01"}
+2022-09-29T13:08:21.660Z [store-api] info GET/client
+2022-09-29T13:08:29.114Z [store-api] info DELETE/client
+2022-09-29T13:08:39.040Z [store-api] info GET/client
+2022-09-29T13:14:23.796Z [store-api] error POST  - relation "suppliers" does not exist
+2022-09-29T13:15:09.826Z [store-api] error POST  - relation "suppliers" does not exist
+2022-09-29T13:16:19.543Z [store-api] error POST  - relation "suppliers" does not exist
+2022-09-29T13:18:15.001Z [store-api] info POST /supplier - {"name":"Tabatha Bensiman Ciampi","cpf":"333.637.668-82","phone":"67998602312","email":"tathabc@gmail.com","address":"Rua 14 de julho 4618 casa 01"}
+2022-09-29T13:18:35.818Z [store-api] info GET/supplier
+2022-09-29T13:18:58.510Z [store-api] info POST /supplier - {"name":"Tabatha Bensiman Ciampi","cpf":"333.637.668-82","phone":"67998602312","email":"tathabc@gmail.com","address":"Rua 14 de julho 4618 casa 01"}
+2022-09-29T13:19:06.671Z [store-api] info GET/supplier
+2022-09-29T13:19:07.686Z [store-api] info GET/supplier
+2022-09-29T13:19:07.907Z [store-api] info GET/supplier
+2022-09-29T13:20:04.634Z [store-api] info POST /supplier - {"name":"Tabatha Bensiman Ciampi","cpf":"333.637.668-82","phone":"67998602312","email":"tathabc@gmail.com","address":"Rua 14 de julho 4618 casa 01"}
+2022-09-29T13:20:09.018Z [store-api] info GET/supplier
+2022-09-29T13:20:38.958Z [store-api] error PUT  - Nome, CPF, telefone, email e endereço são obrigatorios
+2022-09-29T13:20:56.025Z [store-api] error PUT  - Nome, CPF, telefone, email e endereço são obrigatorios
+2022-09-29T13:22:08.132Z [store-api] info PUT /supplier - {"supplier_id":1,"name":"Guilherme Marcos Vit","cpf":"063.726.589-09","phone":"6788558188","email":"guilhermevit@hotmail.com","address":"Rua 14 de julho 4618 casa 01"}
+2022-09-29T13:22:11.673Z [store-api] info GET/supplier
+2022-09-29T13:22:12.975Z [store-api] info GET/supplier
+2022-09-29T13:23:47.694Z [store-api] info PUT /supplier - {"supplier_id":1,"name":"DELL","cpf":"33.470.997/0001-00","phone":"6732011112","email":"vendas.dell@dell.com","address":"Rua 14 de julho 4618 casa 01"}
+2022-09-29T13:24:39.852Z [store-api] info POST /supplier - {"name":"Tabatha Bensiman Ciampi","cpf":"333.637.668-82","phone":"67998602312","email":"tathabc@gmail.com","address":"Rua 14 de julho 4618 casa 01"}
+2022-09-29T13:24:40.672Z [store-api] info POST /supplier - {"name":"Tabatha Bensiman Ciampi","cpf":"333.637.668-82","phone":"67998602312","email":"tathabc@gmail.com","address":"Rua 14 de julho 4618 casa 01"}
+2022-09-29T13:24:43.776Z [store-api] info GET/supplier
+2022-09-29T13:24:53.390Z [store-api] info DELETE/supplier
+2022-09-29T13:24:55.756Z [store-api] info GET/supplier
+2022-09-29T13:34:36.265Z [store-api] info POST /product - {"name":"NootBook","description":"HP Envy X360 15,6 Pol","value":3600,"stock":1,"supplier_id":"1"}
+2022-09-29T13:35:35.090Z [store-api] info PUT /product - {"product_id":1,"supplier_id":1,"name":"NootBook","description":"HP Envy X360 15,6 Pol","value":"2500","stock":1}
+2022-09-29T13:35:46.026Z [store-api] info GET/product
+2022-09-29T13:35:47.086Z [store-api] info GET/product
+2022-09-29T13:35:47.927Z [store-api] info GET/product
+2022-09-29T13:45:26.761Z [store-api] info POST /product - {"name":"NootBook","description":"HP Envy X360 15,6 Pol","value":3600,"stock":1,"supplier_id":"1"}
+2022-09-29T13:45:49.710Z [store-api] info PUT /product - {"product_id":1,"supplier_id":1,"name":"NootBook","description":"HP Envy X360 15,6 Pol","value":"2500","stock":1}
+2022-09-29T13:46:00.450Z [store-api] info GET/product
+2022-09-29T13:46:58.204Z [store-api] info PUT /product - {"product_id":2,"supplier_id":1,"name":"NootBook","description":"HP Envy X360 21 Pol","value":"5000","stock":10}
+2022-09-29T13:47:01.407Z [store-api] info GET/product
+2022-09-29T14:04:56.280Z [store-api] error POST  - bind message supplies 5 parameters, but prepared statement "" requires 4
+2022-09-29T14:05:31.851Z [store-api] error POST  - bind message supplies 5 parameters, but prepared statement "" requires 4
+2022-09-29T14:08:27.907Z [store-api] error POST  - bind message supplies 5 parameters, but prepared statement "" requires 4
+2022-09-29T14:08:48.468Z [store-api] error POST  - bind message supplies 5 parameters, but prepared statement "" requires 4
+2022-09-29T14:09:28.757Z [store-api] info PUT /product - {"product_id":1,"supplier_id":1,"name":"NootBook","description":"HP Envy X360 15,6 Pol","value":"2500","stock":10}
+2022-09-29T14:09:34.476Z [store-api] info PUT /product - {"product_id":1,"supplier_id":1,"name":"NootBook","description":"HP Envy X360 15,6 Pol","value":"2500","stock":100}
+2022-09-29T14:09:36.798Z [store-api] info GET/product
+2022-09-29T14:09:53.587Z [store-api] info GET/product
+2022-09-29T14:11:24.773Z [store-api] info GET/sale
+2022-09-29T14:11:25.629Z [store-api] info GET/sale
+2022-09-29T14:13:20.654Z [store-api] info POST /sale - {"client_id":1,"product_id":1,"value":"2000","date":"10/11/1986"}
+2022-09-29T14:13:47.249Z [store-api] info GET/sale
+2022-09-29T14:14:46.746Z [store-api] error PUT  - date/time field value out of range: "22/09/2022"
+2022-09-29T14:15:10.034Z [store-api] error PUT  - Unexpected token / in JSON at position 87
+2022-09-29T14:15:44.595Z [store-api] info PUT /sale - {"sale_id":1,"client_id":1,"product_id":1,"value":"3500","date":"1986-10-11T04:00:00.000Z"}
+2022-09-29T14:15:52.291Z [store-api] info GET/sale
+2022-09-29T14:16:23.109Z [store-api] info PUT /sale - {"sale_id":1,"client_id":1,"product_id":2,"value":"3500","date":"1986-10-11T04:00:00.000Z"}
+2022-09-29T14:23:25.157Z [store-api] error POST  - Fornecedor inexistente!
+2022-09-29T14:36:19.388Z [store-api] info GET/product
+2022-09-29T14:36:41.289Z [store-api] info POST /sale - {"client_id":1,"product_id":1,"value":"2000","date":"10/11/1986"}
+2022-09-29T14:36:47.042Z [store-api] info GET/product
+2022-09-29T14:41:32.207Z [store-api] info GET/product
+2022-09-29T14:41:55.804Z [store-api] info PUT /product - {"product_id":2,"supplier_id":1,"name":"NootBook","description":"HP Envy X360 21 Pol","value":"5000","stock":1}
+2022-09-29T14:41:58.520Z [store-api] info GET/product
+2022-09-29T14:42:17.374Z [store-api] info POST /sale - {"client_id":1,"product_id":2,"value":"2000","date":"10/11/1986"}
+2022-09-29T14:42:19.013Z [store-api] error POST  - Sem estoque garotinho
+2022-09-29T14:43:05.555Z [store-api] info GET/product
+2022-09-29T14:43:06.870Z [store-api] info GET/product
+2022-09-29T14:45:38.186Z [store-api] info POST /sale - {"client_id":1,"product_id":1,"value":"2500","date":"10/11/1986"}
+2022-09-29T14:45:43.233Z [store-api] info GET/product
+2022-09-29T19:08:30.328Z [store-api] info GET/sale
+2022-09-29T19:09:02.589Z [store-api] info DELETE/sale
+2022-09-29T19:09:10.731Z [store-api] info GET/product
+2022-09-29T22:11:10.148Z [store-api] info GET/client
+2022-09-29T22:11:14.082Z [store-api] info GET/product
+2022-09-29T22:11:16.507Z [store-api] info GET/product
+2022-09-29T22:11:22.860Z [store-api] info GET/supplier
+2022-09-29T22:11:23.789Z [store-api] info GET/supplier
+2022-09-29T22:11:27.511Z [store-api] info GET/sale
+2022-09-29T22:11:54.343Z [store-api] info POST /sale - {"client_id":1,"product_id":1,"value":"2500","date":"10/11/1986"}
+2022-09-29T22:11:55.706Z [store-api] info POST /sale - {"client_id":1,"product_id":1,"value":"2500","date":"10/11/1986"}
+2022-09-29T22:11:56.583Z [store-api] info POST /sale - {"client_id":1,"product_id":1,"value":"2500","date":"10/11/1986"}
+2022-09-29T22:11:57.345Z [store-api] info POST /sale - {"client_id":1,"product_id":1,"value":"2500","date":"10/11/1986"}
+2022-09-29T22:11:58.133Z [store-api] info POST /sale - {"client_id":1,"product_id":1,"value":"2500","date":"10/11/1986"}
+2022-09-29T22:11:58.961Z [store-api] info POST /sale - {"client_id":1,"product_id":1,"value":"2500","date":"10/11/1986"}
+2022-09-29T22:11:59.742Z [store-api] info POST /sale - {"client_id":1,"product_id":1,"value":"2500","date":"10/11/1986"}
+2022-09-29T22:12:04.924Z [store-api] info GET/product
+2022-09-29T22:12:06.268Z [store-api] info GET/product
+2022-09-29T22:12:09.649Z [store-api] info GET/sale
+2022-09-29T22:15:29.836Z [store-api] info PUT /client - {"client_id":1,"name":"Guilherme Marcos Vit","cpf":"063.726.589-09","phone":"67999581929","email":"guilhermevit@hotmail.com","address":"Rua 14 de julho 4618 casa 01"}
