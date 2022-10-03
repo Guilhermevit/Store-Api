@@ -6,7 +6,7 @@ async function connect() {
   }
   const pool = new pg.Pool({
     connectionString:
-      "postgres://qqmqwzid:EKsa0cSKGLiPf5BPqpDmReb8yU73faL_@babar.db.elephantsql.com/qqmqwzid",
+      "inserir seu banco de dados",
   });
   global.connection = pool;
   return pool.connect();
